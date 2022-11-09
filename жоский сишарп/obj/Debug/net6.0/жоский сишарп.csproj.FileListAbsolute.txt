@@ -1,0 +1,15 @@
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\obj\Debug\net6.0\жоский сишарп.csproj.AssemblyReference.cache
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\obj\Debug\net6.0\жоский сишарп.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\obj\Debug\net6.0\жоский сишарп.AssemblyInfoInputs.cache
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\obj\Debug\net6.0\жоский сишарп.AssemblyInfo.cs
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\obj\Debug\net6.0\жоский сишарп.csproj.CoreCompileInputs.cache
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\bin\Debug\net6.0\жоский сишарп.exe
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\bin\Debug\net6.0\жоский сишарп.deps.json
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\bin\Debug\net6.0\жоский сишарп.runtimeconfig.json
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\bin\Debug\net6.0\жоский сишарп.dll
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\bin\Debug\net6.0\жоский сишарп.pdb
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\obj\Debug\net6.0\жоский сишарп.dll
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\obj\Debug\net6.0\refint\жоский сишарп.dll
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\obj\Debug\net6.0\жоский сишарп.pdb
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\obj\Debug\net6.0\жоский сишарп.genruntimeconfig.cache
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\жоский сишарп\жоский сишарп\obj\Debug\net6.0\ref\жоский сишарп.dll
